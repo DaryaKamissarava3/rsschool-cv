@@ -48,7 +48,7 @@ function digitalRoot(n) {
 
 - [Student personal account](https://github.com/DaryaKamissarava3/vstu_personal_account) on React (*use react, react-redux, thunk. Allow student to see their timetable and statistic*) 
 - [Online cinema](https://github.com/DaryaKamissarava3/online_cinema) (*system to book tickets for movies*) 
-- [Modniki shop](https://github.com/DaryaKamissarava3/modniki-shop) on *React* >
+- [Modniki shop](https://github.com/DaryaKamissarava3/modniki-shop) on *React* 
 - [Triphouse cite](https://github.com/DaryaKamissarava3/if-react) on *React* 
 - Make several projects on Js (example: calculate the shortest path in graph)
 
